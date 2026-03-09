@@ -23,7 +23,7 @@ The goal of this project is to transform raw food delivery data into meaningful 
 - Weekend demand is significantly higher compared to weekdays
 - Bengaluru shows the highest order volume among all cities
 - Vegetarian food dominates the majority of orders
-- Mid-range pricing (₹150–₹300) drives the largest share of purchases
+- Premium-range pricing (Above–₹300) drives the largest share of purchases
 - Fast food chains generate high order volumes
 
 ## Business Recommendations
