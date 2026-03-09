@@ -34,7 +34,7 @@ The goal of this project is to transform raw food delivery data into meaningful 
 
 ## Dashboard Preview
 
-![Swiggy Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png)
 ## Project Structure
 Data – Raw dataset  
 Dashboard – Excel dashboard file  
