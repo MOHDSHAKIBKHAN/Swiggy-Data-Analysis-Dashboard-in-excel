@@ -33,8 +33,8 @@ The goal of this project is to transform raw food delivery data into meaningful 
 - Optimise pricing strategies around mid-range price segments
 
 ## Dashboard Preview
-"D:\resources\excel\project\excel project.png"
 
+![Swiggy Dashboard](Images/dashboard.png)
 ## Project Structure
 Data – Raw dataset  
 Dashboard – Excel dashboard file  
